@@ -1,4 +1,4 @@
-# Joint Monocular 3D Vehicle Detection and Tracking
+# COCO Data Set
 COCO 데이터셋: coco dataset은 object dectection, segmentation, captioning하는 데이터셋인데 여러 가지의 class가 존재한다.
 COCO dataset은 kitti dataset과
 비슷하게 전반적인 이미지를 dataset으로 갖고 있다. 
